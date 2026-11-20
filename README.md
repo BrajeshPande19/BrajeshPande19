@@ -71,7 +71,7 @@ Business Intelligence platform for business reporting, operational analytics and
 
 🌐 Nirmaan Setu
 
-🔗 nirmaansetu.com
+https://nirmaansetu.com
 
 E-commerce platform involving WooCommerce, location-wise pricing, freight calculation and application integrations.
 
