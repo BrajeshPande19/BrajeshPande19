@@ -1,7 +1,7 @@
-## Hi there 👋
 
-<!--
-Hi, I'm Brajesh Pandey
+
+
+👋 Hi, I'm Brajesh Pandey
 
 IT Infrastructure | ERP Systems | Software Development | Database Administration
 
@@ -112,4 +112,3 @@ Adopting professional software development and version-control practices.
 💡 My Philosophy
 
 Technology should simplify business operations, improve decision-making and create measurable value.
--->
